@@ -1,9 +1,4 @@
 = JIRA Pipeline Steps
 
-Jenkins pipeline steps for integration with the https://www.atlassian.com/software/jira[JIRA].
 
-Documentation for this plugin is at https://thoughtslive.github.io/jira-steps/[Jira Steps].
-
-== Disclaimer
-
-This plugin is currently under active development.
+This is not maintained here anymore, has been moved to https://github.com/jenkinsci[Jenkins] and maintained at https://github.com/jenkinsci/jira-steps-plugin[JIRA Steps]
