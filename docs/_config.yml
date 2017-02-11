@@ -23,7 +23,7 @@ asciidoctor:
   attributes:
     idprefix: _
     source-highlighter: coderay
-    
+
 defaults:
   -
     scope:
@@ -51,7 +51,9 @@ sidebars:
 gems:
   - jekyll-feed
   - jekyll-asciidoc
+  - jekyll-redirect-from
 
 whitelist:
   - jekyll-feed
   - jekyll-asciidoc
+  - jekyll-redirect-from
